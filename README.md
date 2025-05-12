@@ -4,14 +4,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![C++](https://img.shields.io/badge/-C/C++-000000?style=flat&logo=cplusplus)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=OpenAI)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=FastAPI)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github)
-![Github_Actions](https://img.shields.io/badge/-Github_Actions-000000?style=flat&logo=githubactions)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure)
@@ -58,7 +56,7 @@ a fitness application using IMU sensor data. [Code](https://github.com/danvargg/
 system powered with deep learning for a neurological disorder evaluation and monitoring Software-as-a-Medical-Device
 (SaaMD) application. [Code](https://github.com/danvargg/danvargg/blob/main/docs/projects/etna/README.md)
 
-<img width=30% height=30%  src="https://github.com/danvargg/danvargg/blob/main/docs/projects/etna/images/etna.png">
+![etna](assets/images/etna.png)
 
 ---
 
@@ -66,7 +64,7 @@ system powered with deep learning for a neurological disorder evaluation and mon
 a family of Gaze-to-Speech Software-as-a-Medical-Device (SaaMD) applications. [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/pigio/README.md)
 
-<img src="https://github.com/danvargg/danvargg/blob/main/docs/projects/pigio/images/eye-gaze.png">
+![pigio](assets/images/pigio.png)
 
 ---
 
@@ -94,7 +92,7 @@ https://github.com/danvargg/requirements-similarity)
 **Recommendation System:** A `Recommendation System` for an audio streaming service for wellness content. [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/auraML/README.md)
 
-<img width=50% height=50% src="https://github.com/danvargg/danvargg/blob/main/docs/projects/auraML/auraml.png">
+![aura](assets/images/aura.png)
 
 ---
 
