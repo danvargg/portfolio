@@ -29,8 +29,9 @@
 ## Projects
 
 - **Automatic ISO Compliance Analysis:** A solution designed to automate the process of analyzing company documentation for compliance with ISO 13485:2016 standards. [Code](https://github.com/danvargg/audit-agent)
-
+<p align="center">
 <img src="assets/images/ui.png" width="65%">
+</p>
 
 ---
 
@@ -41,15 +42,18 @@ and match car part codes. It integrates with OpenAI's GPT-based model for intell
 
 - **Automatic Invoice Processing:** An invoice processing system designed to upload, process, and extract structured data from PDF invoices using LLMs. [Code](https://github.com/danvargg/invoice-processor/tree/main)
 
-
+<p align="center">
 <img src="assets/images/ui-invoice.png" width="80%">
+</p>
 
 ---
 
 - **Deep Learning System for Human Activity Recognition:** A `Human Activity Tracking` system powered with deep learning for 
 a fitness application using IMU sensor data. [Code](https://github.com/danvargg/danvargg/blob/main/docs/projects/fc/README.md)
 
+<p align="center">
 <img src="assets/images/gloves.jpg" width="60%">
+</p>
 
 ---
 
@@ -57,7 +61,9 @@ a fitness application using IMU sensor data. [Code](https://github.com/danvargg/
 system powered with deep learning for a neurological disorder evaluation and monitoring Software-as-a-Medical-Device
 (SaaMD) application. [Code](https://github.com/danvargg/danvargg/blob/main/docs/projects/etna/README.md)
 
+<p align="center">
 <img src="assets/images/etna.png" width="60%">
+</p>
 
 ---
 
@@ -65,7 +71,9 @@ system powered with deep learning for a neurological disorder evaluation and mon
 a family of Gaze-to-Speech Software-as-a-Medical-Device (SaaMD) applications. [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/pigio/README.md)
 
+<p align="center">
 <img src="assets/images/pigio.png" width="60%">
+</p>
 
 ---
 
@@ -73,7 +81,9 @@ https://github.com/danvargg/danvargg/blob/main/docs/projects/pigio/README.md)
 [Master Data Analysis](https://www.linkedin.com/company/master-data-analysis/). [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/mda/README.md)
 
+<p align="center">
 <img src="assets/images/mda.png" width="60%">
+</p>
 
 ---
 
@@ -81,7 +91,9 @@ https://github.com/danvargg/danvargg/blob/main/docs/projects/mda/README.md)
 Apple devices. Implemented in [coremltools 6.2](https://github.com/apple/coremltools/releases/tag/6.2) release. [Code](
 https://github.com/apple/coremltools/pull/1707)
 
-![coreml](assets/images/coreml.png)
+<p align="center">
+<img src="assets/images/coreml.png" width="30%">
+</p>
 
 ---
 
@@ -93,11 +105,15 @@ https://github.com/danvargg/requirements-similarity)
 - **Recommendation System:** A `Recommendation System` for an audio streaming service for wellness content. [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/auraML/README.md)
 
-![aura](assets/images/aura.png)
+<p align="center">
+<img src="assets/images/aura.png" width="80%">
+</p>
 
 ---
 
 - **Next word prediction:** A `Natural Language Processing (NLP)` application that predicts the following word in a
 prompt. [Code](https://github.com/danvargg/r-next-word) | [Application](https://danvargg.shinyapps.io/shiny/)
 
-![next-word](assets/images/next_word.png)
+<p align="center">
+<img src="assets/images/next_word.png" width="65%">
+</p>
