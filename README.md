@@ -30,7 +30,7 @@
 
 - **Automatic ISO Compliance Analysis:** A solution designed to automate the process of analyzing company documentation for compliance with ISO 13485:2016 standards. [Code](https://github.com/danvargg/audit-agent)
 
-![iso-ui](assets/images/ui.png)
+<img src="assets/images/ui.png" width="70%">
 
 ---
 
@@ -41,7 +41,8 @@ and match car part codes. It integrates with OpenAI's GPT-based model for intell
 
 - **Automatic Invoice Processing:** An invoice processing system designed to upload, process, and extract structured data from PDF invoices using LLMs. [Code](https://github.com/danvargg/invoice-processor/tree/main)
 
-![invoice-ui](assets/images/ui-invoice.png)
+
+<img src="assets/images/ui-invoice.png" width="70%">
 
 ---
 
