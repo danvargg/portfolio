@@ -39,7 +39,7 @@ and match car part codes. It integrates with OpenAI's GPT-based model for intell
 
 ---
 
-**Automatic Invoice Processing:** An invoice processing system designed to upload, process, and extract structured data from PDF invoices using LLMs. [Code](https://github.com/danvargg/invoice-processor/tree/main)
+- **Automatic Invoice Processing:** An invoice processing system designed to upload, process, and extract structured data from PDF invoices using LLMs. [Code](https://github.com/danvargg/invoice-processor/tree/main)
 
 ![invoice-ui](assets/images/ui-invoice.png)
 
