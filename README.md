@@ -30,7 +30,7 @@
 
 - **Automatic ISO Compliance Analysis:** A solution designed to automate the process of analyzing company documentation for compliance with ISO 13485:2016 standards. [Code](https://github.com/danvargg/audit-agent)
 
-<img src="assets/images/ui.png" width="70%">
+<img src="assets/images/ui.png" width="65%">
 
 ---
 
@@ -42,14 +42,14 @@ and match car part codes. It integrates with OpenAI's GPT-based model for intell
 - **Automatic Invoice Processing:** An invoice processing system designed to upload, process, and extract structured data from PDF invoices using LLMs. [Code](https://github.com/danvargg/invoice-processor/tree/main)
 
 
-<img src="assets/images/ui-invoice.png" width="70%">
+<img src="assets/images/ui-invoice.png" width="80%">
 
 ---
 
 - **Deep Learning System for Human Activity Recognition:** A `Human Activity Tracking` system powered with deep learning for 
 a fitness application using IMU sensor data. [Code](https://github.com/danvargg/danvargg/blob/main/docs/projects/fc/README.md)
 
-![gloves](assets/images/gloves.jpg)
+<img src="assets/images/gloves.jpg" width="60%">
 
 ---
 
@@ -57,7 +57,7 @@ a fitness application using IMU sensor data. [Code](https://github.com/danvargg/
 system powered with deep learning for a neurological disorder evaluation and monitoring Software-as-a-Medical-Device
 (SaaMD) application. [Code](https://github.com/danvargg/danvargg/blob/main/docs/projects/etna/README.md)
 
-![etna](assets/images/etna.png)
+<img src="assets/images/etna.png" width="60%">
 
 ---
 
@@ -65,7 +65,7 @@ system powered with deep learning for a neurological disorder evaluation and mon
 a family of Gaze-to-Speech Software-as-a-Medical-Device (SaaMD) applications. [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/pigio/README.md)
 
-![pigio](assets/images/pigio.png)
+<img src="assets/images/pigio.png" width="60%">
 
 ---
 
@@ -73,7 +73,7 @@ https://github.com/danvargg/danvargg/blob/main/docs/projects/pigio/README.md)
 [Master Data Analysis](https://www.linkedin.com/company/master-data-analysis/). [Code](
 https://github.com/danvargg/danvargg/blob/main/docs/projects/mda/README.md)
 
-![mda](assets/images/mda.png)
+<img src="assets/images/mda.png" width="60%">
 
 ---
 
