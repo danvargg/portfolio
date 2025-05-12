@@ -43,14 +43,14 @@ and match car part codes. It integrates with OpenAI's GPT-based model for intell
 
 **Automatic Invoice Processing:** An invoice processing system designed to upload, process, and extract structured data from PDF invoices using LLMs. [Code](https://github.com/danvargg/invoice-processor/tree/main)
 
-<img width=50% height=50%  src="https://github.com/danvargg/invoice-processor/blob/main/img/ui.png">
+![invoice-ui](assets/images/ui-invoice.png)
 
 ---
 
 **Deep Learning System for Human Activity Recognition:** A `Human Activity Tracking` system powered with deep learning for 
 a fitness application using IMU sensor data. [Code](https://github.com/danvargg/danvargg/blob/main/docs/projects/fc/README.md)
 
-<img width=30% height=30%  src="https://github.com/danvargg/danvargg/blob/main/docs/projects/fc/images/012_boxing_sensor_tracking.jpg">
+![gloves](assets/images/gloves.jpg)
 
 ---
 
