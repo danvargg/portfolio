@@ -2,7 +2,7 @@
 
 ## Projects
 
-**Automatic ISO Compliance Analysis:** A solution designed to automate the process of analyzing company documentation for compliance with ISO 13485:2016 standards.. [Code](https://github.com/danvargg/audit-agent)
+**Automatic ISO Compliance Analysis:** A solution designed to automate the process of analyzing company documentation for compliance with ISO 13485:2016 standards. [Code](https://github.com/danvargg/audit-agent)
 
 <img width=30% height=30%  src="https://github.com/danvargg/audit-agent/blob/main/img/ui.png">
 
