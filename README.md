@@ -1,5 +1,13 @@
 # Machine Learning Engineer
 
+## My Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=Pandas)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=OpenAI)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=Streamlit)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=FastAPI)
+
 ## Projects
 
 **Automatic ISO Compliance Analysis:** A solution designed to automate the process of analyzing company documentation for compliance with ISO 13485:2016 standards. [Code](https://github.com/danvargg/audit-agent)
